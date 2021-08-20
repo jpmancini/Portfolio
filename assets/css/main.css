@@ -2632,10 +2632,11 @@ input, select, textarea {
 				width: 100%;
 			}
 
-		.image.main {
+		.image.avatar {
 			display: block;
 			margin: 4rem 0;
 			width: 100%;
+            border-radius: 50%;
 		}
 
 			.image.main:first-child {
